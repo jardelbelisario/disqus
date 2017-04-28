@@ -1,0 +1,17 @@
+{
+    "name": "jbelisario/disqus",
+    "description": "Pacote de comentarios Disqus",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jardel Belisário",
+            "email": "jardelbelisario@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JBelisario\\Disqus\\": "src/"
+        }
+    },
+    "require": {}
+}
